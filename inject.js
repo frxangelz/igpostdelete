@@ -158,7 +158,7 @@ function DeletePost(){
 			
 			console.log("found Delete Button !");
 			b = true;
-			//btns[i].click();
+			btns[i].click();
 			break;
 		}
 	}
