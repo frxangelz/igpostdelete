@@ -1,0 +1,33 @@
+{
+  "name": "Delete Instagram Posts : by freeangel",
+  "background": {
+        "scripts": [
+            "background.js"
+        ]
+    },
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "Macro to delete all your Posts/photo on Instagram",
+  "homepage_url": "https://www.youtube.com/channel/UCqRqvw9n7Lrh79x3dRDOkDg",
+  "default_locale": "en",
+  "browser_action": {
+    "default_title": "delete all Your Instagram Posts",
+    "default_popup": "popup/popup.html"
+  },
+  "permissions": [
+    "background",
+    "https://instagram.com/*",
+    "https://*.instagram.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+	      "jquery.min.js",
+        "inject.js"
+      ]
+    }
+  ]
+}
