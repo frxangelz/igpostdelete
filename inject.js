@@ -1,5 +1,5 @@
 /*
-	Delete all your comments on youtube
+	Delete all your posts on Instagram
 	(c) 2021 - FreeAngel 
 		
 		youtube channel : http://www.youtube.com/channel/UC15iFd0nlfG_tEBrt6Qz1NQ
