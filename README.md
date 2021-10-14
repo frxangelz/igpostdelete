@@ -4,7 +4,7 @@ Unfortunately, there is no option to delete all posts On Instagram. If you want 
 
 with the help of this extension, you can delete all your posts on youtube without having to bother with manual clicks one by one. this script will do it, you just press the start button and you can let the computer work for you. 
 
-How to use and Demo : https://www.youtube.com/watch?v=KGm2qnL-ObU
+How to use and Demo : https://www.youtube.com/watch?v=p5NsbTlxC3k
 
 I really hope for your support by subscribing to my youtube channel :
 https://www.youtube.com/channel/UCqRqvw9n7Lrh79x3dRDOkDg
